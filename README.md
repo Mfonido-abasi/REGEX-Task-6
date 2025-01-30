@@ -1,7 +1,7 @@
-###Mastercard Validator
+### Mastercard Validator
 
-##Description
-This is a simple credit card validation system that specifically checks if a given card number belongs to a Mastercard.
+## Description
+This simple credit card validation system specifically checks if a card number belongs to a Mastercard.
 If the card is a Mastercard, it returns the number, otherwise, it returns null.
 However, it still extracts and displays other card details.
 
